@@ -7,11 +7,13 @@ int main()
 	std::cout << "What is your name?" <<std::endl;
 	Main is Modified
 	Hello
+	Hi!!
 
 
 	std::cin >> name;
 	std::cout << "Hello " << name << "! << "std::endl;
 	return 0;
+	HI!!!!!
 }
 
 
